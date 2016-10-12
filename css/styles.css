@@ -1,0 +1,19 @@
+.headers {
+  font-size: 40px;
+  font-style: bold;
+}
+
+.tasks {
+  font-size: 20px;
+  font-style: normal;
+}
+
+.headersItalic {
+  font-size: 40px;
+  font-style: italic;
+}
+
+.tasksItalic {
+  font-size: 20px;
+  font-style: italic;
+}
